@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1>🪐</h1>
+
+### Projects
+| Project | Description | Links |
+| --- | --- | --- |
+| **LunchPicker** | 오늘 뭐 먹지? 고민을 줄여주는 주변 맛집 추천 서비스 | [Live](https://lunch-picker-red.vercel.app/) |
+| **DatePicker Packer** |  반복되는 업무를 간편하게 관리하는 체크리스트 웹 서비스 *(테스트중)*  | [Code](주소) |
+| **CheckList** | 다양한 날짜 입력 방식을 지원하는 커스텀 DatePicker 컴포넌트 *(작업중)* | [Code](주소) |
+
+### Tech Stack
+<img src="https://skillicons.dev/icons?i=vue,js,ts,html,css,flutter,dart,figma,git" width="250" />
 
 <!--
 **marsinity/marsinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
